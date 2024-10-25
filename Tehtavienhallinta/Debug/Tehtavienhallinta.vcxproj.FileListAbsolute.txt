@@ -1,0 +1,2 @@
+G:\GitHub\Cpp-Exercises\Tehtavienhallinta\Debug\Tehtavienhallinta.exe
+C:\Users\mika.ylisirnio\Documents\GitHub\Cpp-Exercises\Tehtavienhallinta\Debug\Tehtavienhallinta.exe
